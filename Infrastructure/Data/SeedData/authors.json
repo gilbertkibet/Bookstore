@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "D7D8C8D8-16ED-4CC2-8A4C-556CFD9EE58E",
+    "FirstName": "Alfredo",
+    "LastName": "Covelli",
+    "Email": "Covelli@test.com",
+    "DateOfBirth": "1989-01-06T17:16:40"
+  },
+
+  {
+    "Id": "D7D5C8D8-16ED-4CC2-8A4C-556CFD9EE58E",
+    "FirstName": "Dalai",
+    "LastName": "Lama",
+    "Email": "Lama@test.com",
+    "DateOfBirth": "1978-01-06T17:16:40"
+  }  
+]
