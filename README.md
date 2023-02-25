@@ -60,9 +60,5 @@ The app uses JWT token for authentication. Some actions might require you to be 
 
 ## Contact
 
-Erick Muthomi - erick.muthomi@outlook.com
-
-Project Link: [https://github.com/MuthomiEric/Bookstore](https://github.com/MuthomiEric/Bookstore)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Gilbert Kibet-kibetgilly354@gmail.com
 
